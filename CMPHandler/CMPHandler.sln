@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handler", "Handler\Handler.csproj", "{4AC20B9F-C5E7-4767-8D33-AC70A9C2C9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLib", "STLib\STLib.csproj", "{5B70CC29-8D69-4E63-A4DD-A1709043A975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC20B9F-C5E7-4767-8D33-AC70A9C2C9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC20B9F-C5E7-4767-8D33-AC70A9C2C9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC20B9F-C5E7-4767-8D33-AC70A9C2C9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC20B9F-C5E7-4767-8D33-AC70A9C2C9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B70CC29-8D69-4E63-A4DD-A1709043A975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B70CC29-8D69-4E63-A4DD-A1709043A975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B70CC29-8D69-4E63-A4DD-A1709043A975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B70CC29-8D69-4E63-A4DD-A1709043A975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
